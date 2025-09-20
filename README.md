@@ -19,3 +19,4 @@ Please consider the below factors while contributing:
 
 ### Licensing
 - Contributions are licensed under Apache 2.0.
+2025 XYZ, Inc.
